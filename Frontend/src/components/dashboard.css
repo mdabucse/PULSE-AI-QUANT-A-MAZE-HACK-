@@ -1,0 +1,242 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    height: 100%;
+    width: 100%;
+    /* padding: 20px; */
+ }
+ 
+ .header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+ }
+ 
+ .logo {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+ }
+ 
+ .logo-icon {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+ }
+ 
+ .export-btn {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 70px;
+ }
+ 
+ .dashboard-content {
+    display: flex;
+    justify-content: space-evenly;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 100%;
+    max-width: 1000px;
+ }
+
+
+
+ .observes1, .observes2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -10px;
+ }
+ 
+ .video-feed {
+    grid-column: span 2;
+    position: relative;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #eee;
+    margin-left: -40px;
+ }
+ 
+ .incubator-image {
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+ }
+ 
+ .video-label {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(0, 255, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+ }
+ 
+ .metric-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    justify-content: space-around;
+    height: 250px;
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+ }
+
+ .metric-head{
+   font-size: 25px;
+   font-weight: bold;
+ }
+
+ .metric-head1{
+   font-size: 25px;
+   font-weight: bold;
+   margin-top: -20px;
+ }
+
+ .main ob{
+    margin-left: -10px;
+ }
+ 
+ .metric-card h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+ }
+ 
+ .metric-icon1 {
+    width: 150px;
+    height: 150px;
+    margin-top: -15px;
+ }
+
+ .metric-icon{
+    width: 180px;
+    height: 180px;
+    margin-top: -40px;
+    margin-bottom: -40px;
+ }
+
+ .metric-icon2 {
+    width: 170px;
+    height: 170px;
+    /* margin-bottom: 10px; */
+    margin-top: -10px;
+ }
+ 
+ .metric-value1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 2px;
+ }
+
+ .metric-value2 {
+    font-size: 24px;
+    font-weight: bold;
+    /* margin-top: -2px; */
+ }
+
+ .metric-value{
+    font-size: 24px;
+    font-weight: bold;
+ }
+ 
+ .metric-value1 .metric-value1 span {
+    font-size: 14px;
+ }
+ 
+ .baby-color .color-display {
+    width: 100px;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: -40px;
+    justify-content: center;
+ }
+ 
+ .emergency-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    justify-content: space-around;
+    height: 100px;
+    width: 180px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+ }
+
+ .emgy-fix{
+    display: flex;
+    margin-top: -25px;
+ }
+
+ .emgy-text{
+    margin-top: 4px;
+ }
+
+ .health-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ddd;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    justify-content: space-around;
+    height: 100px;
+    width: 600px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+ }
+
+ .card2{
+    display: flex;
+ }
+ 
+ .sos-btn {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    cursor: pointer;
+ }
+ 
+ .emergency-icon {
+    width: 50px;
+    height: 50px;
+ }
+ 
+ .footer {
+    margin-top: 20px;
+    text-align: center;
+ }
+ 
+ .health-status {
+    font-size: 16px;
+    margin-bottom: 5px;
+    font-weight: bold;
+ }
+ 
+ .last-updated {
+    font-size: 12px;
+    color: gray;
+ }
