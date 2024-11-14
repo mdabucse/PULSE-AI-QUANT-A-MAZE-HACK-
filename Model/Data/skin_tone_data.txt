@@ -1,0 +1,2 @@
+Skin Tone: Medium
+Average Skin Color (BGR): [99, 106, 139]
