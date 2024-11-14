@@ -1,0 +1,10 @@
+Based on the given information, the APGAR score can be calculated as follows:
+
+Heart Rate: 1 point (80.40 bpm falls in the range of 60 to 100 bpm)
+Temperature: 0 points (22.34 is severely low, indicating hypothermia)
+Color: 2 points (The BGR values indicate a fair skin tone which is considered normal)
+Sleep Cycle: 2 points (Assuming a 120-minute sleep duration represents a normal newborn's sleep pattern)
+
+Adding these numbers together gives an APGAR score of 5.
+
+Based on this score, the baby may need medical support but is not in critical condition. The baby needs immediate attention to rectify its body temperature which is significantly low. The heart rate, color, and sleep cycle appear to be normal.
