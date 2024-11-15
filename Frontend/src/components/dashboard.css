@@ -1,7 +1,7 @@
 .dashboard {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    /* align-items: center; */
     font-family: Arial, sans-serif;
     background-color: #f7f7f7;
     height: 100%;
@@ -30,7 +30,7 @@
  }
  
  .export-btn {
-    background-color: #333;
+    background-color: #000000;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -41,19 +41,20 @@
  
  .dashboard-content {
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     width: 100%;
-    max-width: 1000px;
+    /* max-width: 1000px; */
+    margin-left: 40px;
  }
 
 
 
  .observes1, .observes2{
     display: flex;
-    justify-content: space-around;
-    margin-left: -10px;
+    /* justify-content: space-around; */
+    /* margin-left: 40px; */
  }
  
  .video-feed {
@@ -63,7 +64,8 @@
     border-radius: 10px;
     padding: 10px;
     background-color: #eee;
-    margin-left: -40px;
+    margin-left: 80px;
+    width: 400px;
  }
  
  .incubator-image {
@@ -91,8 +93,8 @@
     border: 1px solid #ccc;
     border-radius: 10px;
     justify-content: space-around;
-    height: 250px;
-    width: 250px;
+    height: 400px;
+    width: 400px;
     margin-right: 20px;
     margin-bottom: 20px;
  }
@@ -131,8 +133,8 @@
  }
 
  .metric-icon2 {
-    width: 170px;
-    height: 170px;
+    width: 250px;
+    height: 250px;
     /* margin-bottom: 10px; */
     margin-top: -10px;
  }
@@ -174,11 +176,12 @@
     border: 1px solid #ccc;
     border-radius: 10px;
     justify-content: space-around;
-    height: 100px;
-    width: 180px;
+    height: 200px;
+    width: 340px;
     margin-right: 20px;
     margin-bottom: 20px;
     margin-top: 20px;
+    margin-left: 60px;
  }
 
  .emgy-fix{
@@ -192,21 +195,23 @@
 
  .health-card{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items: center;
     background-color: #ddd;
     border: 1px solid #ccc;
     border-radius: 10px;
     justify-content: space-around;
-    height: 100px;
-    width: 600px;
-    margin-right: 20px;
+    height: 200px;
+    width: 800px;
+    margin-right: -200px;
     margin-bottom: 20px;
     margin-top: 20px;
+    margin-left: 70px;
  }
 
  .card2{
     display: flex;
+    margin-left: 90px;
  }
  
  .sos-btn {
@@ -239,4 +244,5 @@
  .last-updated {
     font-size: 12px;
     color: gray;
+    margin-left: 650px;
  }
