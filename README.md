@@ -1,5 +1,5 @@
 # PULSE AI
-![logo](![logo-removebg-preview](https://github.com/user-attachments/assets/93ef0025-e8cd-4949-b3b7-12d1e57fc2db)
+![logo-removebg-preview](https://github.com/user-attachments/assets/bdddc07c-77e8-4074-bab2-f717fa4254aa)
 )
 )
 
