@@ -1,7 +1,5 @@
 # PULSE AI
 ![logo-removebg-preview](https://github.com/user-attachments/assets/bdddc07c-77e8-4074-bab2-f717fa4254aa)
-)
-)
 
 Non - Conatact Vitul Monitoring 💟
 
