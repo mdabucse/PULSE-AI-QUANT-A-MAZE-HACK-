@@ -1,5 +1,7 @@
 # PULSE AI
-![logo](https://raw.githubusercontent.com/mdabucse/PULSE-AI-QUANT-A-MAZE-HACK-/refs/heads/master/Docmentation/logo.jpeg)
+![logo](![logo-removebg-preview](https://github.com/user-attachments/assets/93ef0025-e8cd-4949-b3b7-12d1e57fc2db)
+)
+)
 
 Non - Conatact Vitul Monitoring 💟
 
