@@ -99,6 +99,16 @@ The need for an AI-powered Neonatal Vital Monitoring System stems from the criti
 - FrontEnd : http://localhost:5173/
 
 ## Output
+![image](https://github.com/user-attachments/assets/78b0e3a6-504d-4b28-9274-6f2537f1c63f)
+![image](https://github.com/user-attachments/assets/3c0277d1-4555-4bde-ba49-8b06b418476b)
+![image](https://github.com/user-attachments/assets/dbf5db9e-e490-413e-ad17-47c6b850a276)
+![image](https://github.com/user-attachments/assets/16fb9d87-5ca6-4185-977f-d2c38df84392)
+![image](https://github.com/user-attachments/assets/a6119d7c-d75a-407d-a93c-aade42f8fdbd)
+![image](https://github.com/user-attachments/assets/6ea6c7be-1995-49e1-9782-799f33de6d99)
+
+
+
+
 
 
 ## Contributors
